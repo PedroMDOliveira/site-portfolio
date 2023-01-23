@@ -20,3 +20,6 @@ Neste curso nós vamos dominar todo o **Git** e **Github** do _zero ao profissio
 
 [Youtube](https://youtube.com/c/sujeitoprogramador)
 
+>Este é um blockquote, usado para destacar alguma área
+>
+>Segunda area destacada
