@@ -29,7 +29,7 @@ Neste curso nós vamos dominar todo o **Git** e **Github** do _zero ao profissio
 >
 >Segunda area destacada
 
-**Comando para rodar o projeto**
+### Comandos:
 
 ```
 npm start
