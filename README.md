@@ -62,7 +62,9 @@ function showName(name){
 
 Propriedade | Descrição
 ----------- | ---------
-name | Informar o nome do user 
+name | Informar o **nome** do user 
 size | Para definir o tamanho do campo
-background | Cor de fundo da área em HEX
+background | Cor de fundo da área em _HEX_
 onPress | Função chamada quando clicar no botão
+logo | ![Logo do Git](https://git-scm.com/images/logos/logomark-orange@2x.png)
+
