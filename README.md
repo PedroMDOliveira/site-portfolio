@@ -30,7 +30,7 @@ Neste curso nós vamos dominar todo o **Git** e **Github** do _zero ao profissio
 npm start
 ```
 
-**Exemplo de usa o script**
+**Exemplo de uso do script**
 
 ```js
 function showName(name){
@@ -44,7 +44,7 @@ function showName(name){
     titulo do projeto
     <span>Curso</span>
 <span>
-
+```
 
 **CSS padrão do projectos:**
 ```css
@@ -52,3 +52,4 @@ function showName(name){
     bachground-color: FFF
     color: #FF0000; 
 }
+'''
